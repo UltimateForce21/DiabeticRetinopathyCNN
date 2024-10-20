@@ -10,5 +10,5 @@ To run any notebook, first download the necessary datasets to train the model fr
 2. [Diabetic Retinopathy Detection](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)
 3. [Messidor-2 DR Grades](https://www.kaggle.com/datasets/google-brain/messidor2-dr-grades)
 
-Here's a link to the final presentation video:
+Here's a link to our final presentation video:
 [Final Presentation Video](https://youtu.be/8ejZN0-FFhY)
